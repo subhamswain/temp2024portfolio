@@ -24,7 +24,7 @@ function Footer() {
               <a
                 href="https://github.com/subhamswain"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
@@ -34,7 +34,7 @@ function Footer() {
               <a
                 href="https://twitter.com/subhamwills"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiOutlineTwitter />
@@ -42,9 +42,9 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/subhswai/"
+                href="https://tinyurl.com/linkdedn"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />

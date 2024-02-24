@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Subham Swain </span>
             from <span className="purple"> Rourkela,Odisha.</span>
-            <br /> I have 2.8 years experience as a software developer.
+            <br /> I have 2.0 years experience as a software developer.
             <br />
             <br/>
             <h3>EXPERIENCE</h3>
@@ -18,13 +18,10 @@ function AboutCard() {
             <ImPointRight />FullStack Developer in Anand Rathi Wealth Pvt Ltd(Fintech) from January 2024 to present.
             </li>
             <li className="about-activity">
-            <ImPointRight /> Python Programmer in Innefu Labs Pvt ltd (Aug 2022 to Oct 2023)
+            <ImPointRight />Software Engineer in Target Integration (Dec 2021 to Jan 2022)
             </li>
             <li className="about-activity">
-            <ImPointRight />Software Engineer in Target Integration (Feb 2022 to Aug 2022)
-            </li>
-            <li className="about-activity">
-            <ImPointRight /> Application Developer in IWCN (Aug 2021 to Feb 2022)
+            <ImPointRight /> Application Developer in IWCN (Aug 2021 to Nov 2021)
             </li>
             <br/>
             Apart from coding, some other activities that I love to do!
