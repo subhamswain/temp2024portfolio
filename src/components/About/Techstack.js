@@ -6,6 +6,10 @@ import {SiDjango} from "react-icons/si";
 import {BsBootstrapFill} from "react-icons/bs";
 import {TbBrandRedux} from "react-icons/tb";
 import {SiZoho} from "react-icons/si";
+import { FaAws } from "react-icons/fa";
+import { SiPostgresql } from "react-icons/si";
+import { SiFlask } from "react-icons/si";
+import { SiFastapi } from "react-icons/si";
 import {
   DiJavascript1,
   DiReact,
@@ -33,6 +37,11 @@ function Techstack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
+        <FaAws  />
+        <h3>AWS</h3>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
         <BsBootstrapFill />
         <h3>BOOTSTRAP</h3>
       </Col>
@@ -41,7 +50,7 @@ function Techstack() {
         <DiReact />
         <h3>REACT JS</h3>
       </Col>
-        
+
       <Col xs={4} md={2} className="tech-icons">
         <TbBrandRedux />
         <h3>REDUX</h3>
@@ -53,8 +62,18 @@ function Techstack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
+      <SiFlask />
+        <h3>FLASK</h3>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
         <SiDjango />
         <h3>DJANGO</h3>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+      <SiFastapi />
+        <h3>FASTAPI</h3>
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
@@ -63,9 +82,15 @@ function Techstack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
+      <SiPostgresql />
+        <h3>POSTGRESQL</h3>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
         <SiZoho />
         <h3>ZOHO</h3>
       </Col>
+
     </Row>
   );
 }

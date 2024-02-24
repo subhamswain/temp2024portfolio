@@ -18,19 +18,19 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              A Software Developer with 1.6 years of experience in maintaining and building web pages and helping companies to create and maintaining better code base for reuseability.Capable of continuous learning from senior developers.Passionate about learning new technologies and developing with desire to apply skills on a larger development team.I fell in love with programming and I have at least learnt
+              A Software Developer with 2.8 years of experience in maintaining and building web pages and helping companies to create and maintaining better code base for reuseability.Capable of continuous learning from senior developers.Passionate about learning new technologies and developing with desire to apply skills on a larger development team.I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple">Html,Css, Javascript,Bootstrap,React Js,Python,Django. </b>
+                <b className="purple">Javascript,React Js,Python,Django,Flask,AWS. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b>
-    
+
               </i>
               <br />
               <br />

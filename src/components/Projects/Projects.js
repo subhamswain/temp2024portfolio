@@ -14,7 +14,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          My Recent Demo Project <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
@@ -36,7 +36,7 @@ function Projects() {
               imgPath={googledocsclone}
               isBlog={false}
               title="googledocsclone"
-              description="Technology->React Js | CSS | Material UI(June 2023).Created a Google Docs web application that replicates the basic functionality. Google Docs is a popular cloud-based document editor that allows multiple users to collaborate on documents in real-time. By building a clone of google docs, we aim to provide a similar collaborative document editing experience. Google docs clone empowers users with essential productivity tools, such as spell-checking, word count, and easy formatting options."
+              description="Technology->React Js | CSS | Material UI |Redux(June 2023).Created a Google Docs web application that replicates the basic functionality. Google Docs is a popular cloud-based document editor that allows multiple users to collaborate on documents in real-time. By building a clone of google docs, we aim to provide a similar collaborative document editing experience. Google docs clone empowers users with essential productivity tools, such as spell-checking, word count, and easy formatting options."
               ghLink="https://github.com/subhamswain/googlecloneready"
               demoLink="https://googlecloneready.vercel.app/"
             />
@@ -50,7 +50,7 @@ function Projects() {
               description="Technology->React Js | CSS | Material UI | Carousel(July 2023).Gym website designed to inspire and empower fitness enthusiasts. Discover our state-of-the-art facilities, a diverse range of services, and flexible membership options. With stunning visuals and interactive carousels, we showcase our gym unique features and success stories. Join us on this fitness journey and unlock your full potential with our innovative online platform. I am passionate about creating an
               immersive online experience that promotes fitness and encourages user engagement."
               ghLink="https://github.com/subhamswain/gymfitnesssubham"
-              demoLink="https://gymfitnesssubham.vercel.app/"              
+              demoLink="https://gymfitnesssubham.vercel.app/"
             />
           </Col>
 

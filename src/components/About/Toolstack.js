@@ -2,10 +2,11 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {BsDiscord} from "react-icons/bs";
 import {SiNetlify} from "react-icons/si";
-import {SiSublimetext} from "react-icons/si";
 import {FaAtom} from "react-icons/fa";
 import {BsMicrosoftTeams} from "react-icons/bs";
 import {SiAnaconda} from "react-icons/si";
+import { FaBitbucket } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 import {
   SiVisualstudiocode,
   SiPostman,
@@ -41,10 +42,6 @@ function Toolstack() {
         <h3>NETLIFY</h3>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSublimetext />
-        <h3>SUBLIME TEXT</h3>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <FaAtom />
         <h3>ATOM</h3>
       </Col>
@@ -55,6 +52,15 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <BsMicrosoftTeams />
         <h3>MICROSOFT TEAMS</h3>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+      <FaBitbucket />
+        <h3>BITBUCKET</h3>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+      <FaGithub />
+        <h3>GITHUB</h3>
       </Col>
     </Row>
   );
